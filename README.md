@@ -9,7 +9,15 @@ Repositorio / código online:
 - Codesandbox: https://codesandbox.io/p/sandbox/ig2526-s10-forked-dfh28h  
 
 ***
+# GIF de la Demo
 
+![Demo](./practica-11-ig.gif)
+
+***
+# Enlace al vídeo (haz clic sobre el para redirigirte al video)
+
+[![Ver demo](https://img.youtube.com/vi/VTMJ4UY5HFo/0.jpg)](https://youtu.be/VTMJ4UY5HFo)
+***
 ## Descripción de la práctica y relación con la entrega
 
 La tarea consistía en proponer un prototipo en three.js de temática libre que integrara la biblioteca tween.js y/o el motor de física ammo.js, acompañado de un README y un vídeo corto (≈1 minuto) mostrando la animación y la autoría.  
